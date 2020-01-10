@@ -1,8 +1,8 @@
-# Lambelcebur-rbac
+# lambelcebur-rbac
 Extended RBAC with Doctrine ORM
 
 ## See
-- [https://packagist.org/explore/?query=Lambelcebur](https://packagist.org/explore/?query=Lambelcebur)
+- [https://packagist.org/explore/?query=lambelcebur](https://packagist.org/explore/?query=lambelcebur)
 - [https://olegkrivtsov.github.io/using-zend-framework-3-book/html/](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
 
 ## Installation
@@ -11,7 +11,7 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require Lambelcebur/rbac
+composer require lambelcebur/rbac
 ```
 
 Then add `LamBelcebur\Rbac` to your `config/application.config.php`.

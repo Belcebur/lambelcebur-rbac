@@ -1,5 +1,5 @@
 {
-  "name": "Lambelcebur/rbac",
+  "name": "lambelcebur/rbac",
   "description": "Extended RBAC with Doctrine ORM",
   "keywords": [
     "RBAC",
@@ -17,11 +17,11 @@
     "laminas/laminas-permissions-rbac": "^3.0"
   },
   "suggest": {
-    "Lambelcebur/doctrine-orm-fast-api": "Quickly create an automatic API CRUD with your Doctrine ORM connection",
-    "Lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
-    "Lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
-    "Lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
-    "Lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
+    "lambelcebur/doctrine-orm-fast-api": "Quickly create an automatic API CRUD with your Doctrine ORM connection",
+    "lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
+    "lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
+    "lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
+    "lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
   },
   "license": "Apache-2.0",
   "authors": [
